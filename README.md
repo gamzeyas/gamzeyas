@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ I am developing mobile applications using Figma, Dart, Flutter and Firebase.<br>📚 I am currently learning phyton to improve my work with artificial intelligence.<br>🎯 Goals: To become a digital nomad and develop useful products by finding my own Ikigai. <br>🎲 Fun fact: I am actually a director. I studied cinema. A director is always a director.</p>
+<p align="center">✨ I am developing mobile apps using Figma, Dart, Flutter and Firebase.<br>📚 I am currently learning to develop mobile apps integrated with artificial intelligence tools.<br>🎯 Goals: To become a digital nomad and develop useful products by finding my own Ikigai. <br>🎲 Fun fact: I'm a much more outgoing and social character than most developers :)</p>
 
 ###
 
@@ -65,7 +65,9 @@
   <a href="www.linkedin.com/in/gamzeyas7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/thegamzeyas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
   <a href="gamzeyas712@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
