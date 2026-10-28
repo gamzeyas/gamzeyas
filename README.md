@@ -1,79 +1,40 @@
-<h1 align="center">Hello, welcome to my world !</h1>
+<h1>Gamze Yaş</h1>
 
-###
+**AI Transformation Lead @ Bluechip** · Istanbul
 
-<p align="center">My name is Gamze . I'm a mobile application developer and UI/UX designer .</p>
+I turn how a creative agency works into production AI systems: multi-agent pipelines, retrieval over a company's own knowledge, and AI-assisted tools the team uses every day. I take each one from the first workflow interview to a deployed, measured product.
 
-###
+### What I build
 
-<h2 align="center">About me</h2>
+- **Multi-agent orchestration.** Specialist agents with human approval gates, durable workflows and automated QA loops.
+- **RAG over institutional knowledge.** Grounded, cited answers from years of decks and reports, exposed to other agents over MCP.
+- **AI inside daily operations.** Brief analysis that turns a client brief into department tasks, inside the tools people already use.
+- **Products around the AI.** Fast web apps, live event experiences and the deployment work that keeps them running.
 
-###
+### Featured work
 
-<p align="center">✨ I am developing mobile apps using Figma, Dart, Flutter and Firebase.<br>📚 I am currently learning to develop mobile apps integrated with artificial intelligence tools.<br>🎯 Goals: To become a digital nomad and develop useful products by finding my own Ikigai. <br>🎲 Fun fact: I'm a much more outgoing and social character than most developers :)</p>
+| Project | What it is | Built with |
+|---|---|---|
+| [**Bluechip AI Hub**](https://github.com/gamzeyas/bluechip-ai-hub-showcase) | 10 Claude agents turn a raw brief into research, concepts and a pitch deck, with 3 human gates and QA on every output | eve durable workflows · Claude · Next.js · Supabase |
+| [**Archive Assistant**](https://github.com/gamzeyas/bluechip-archive-assistant-showcase) | RAG over the agency's past pitches: cited answers, real slide previews, an MCP server for other agents | Python · Gemini · Pinecone · MCP |
+| [**bluework**](https://github.com/gamzeyas/bluework-showcase) | Internal job tracker where an AI brief agent creates tasks for every department | Next.js 16 · Supabase · AI SDK |
+| [**MOSENTO**](https://github.com/gamzeyas/mosento-showcase) | Live photo mosaics for events: face-safe crops and global Hungarian matching | FastAPI · OpenCV · SciPy · Next.js |
+| [**Bluechip Website**](https://github.com/gamzeyas/bluechip-website-showcase) | Bilingual, motion-rich agency site with 71 static pages | Next.js 16 · GSAP · next-intl |
 
-###
+Most source code is private client work. Each showcase documents the architecture and the decisions, and code walkthroughs are available on request.
 
-<h2 align="center">I work with</h2>
+### Stack
 
-###
+**AI:** ![Claude](https://img.shields.io/badge/Claude-Opus%20%C2%B7%20Sonnet%20%C2%B7%20Haiku-D97757?style=flat-square) ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square) ![Vercel AI SDK](https://img.shields.io/badge/Vercel-AI%20SDK%20%C2%B7%20AI%20Gateway-000000?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-servers%20%26%20clients-5B6784?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-vector%20search-1C17FF?style=flat-square) ![eve](https://img.shields.io/badge/eve-durable%20agents-2450E6?style=flat-square)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
+**Engineering:**
 
-###
+[![Stack](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,fastapi,opencv,supabase,postgres,vercel,githubactions,flutter,dart,figma&perline=14)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamzeyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamzeyas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Background
 
-###
+I started as a Flutter developer and UI/UX designer and I'm also a multidisciplinary artist, so I design systems for the people who use them as much as for the machines that run them.
 
-<img src="https://raw.githubusercontent.com/gamzeyas/gamzeyas/output/snake.svg" alt="Snake animation" />
+### Contact
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gamzeyas/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/gamzeyas7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/thegamzeyas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="gamzeyas712@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://medium.com/@gamzeyas712" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-</div>
-
-###
+[LinkedIn](https://www.linkedin.com/in/gamzeyas7) · [Email](mailto:gamzeyas712@gmail.com)
